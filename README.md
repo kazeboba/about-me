@@ -9,6 +9,25 @@ I build tools that help uncover issues that are invisible to standard testing ap
 
 ## Featured Projects
 
+### Playwrite + C# Automated tests
+👉 https://github.com/kazeboba/PlaywrightC-
+
+#### What it does:
+This project provides UI testing for user scenarios through a browser.
+It follows the Page Object Model (POM) approach to separate test logic from page interactions.
+
+#### Tech Stack
+- .NET
+- Playwright for .NET
+- NUnit
+- C#
+
+#### Aproach
+- Uses Page Object Model
+- Locators are stored in Pages and Components
+- Tests describe user behavior
+- Avoids code duplication
+
 ### automation-proxy  
 👉 https://github.com/kazeboba/automation-proxy  
 
