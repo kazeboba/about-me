@@ -28,6 +28,8 @@ It follows the Page Object Model (POM) approach to separate test logic from page
 - Tests describe user behavior
 - Avoids code duplication
 
+---
+
 ### automation-proxy  
 👉 https://github.com/kazeboba/automation-proxy  
 
