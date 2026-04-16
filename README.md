@@ -79,7 +79,7 @@ Project for testing gRPC services and validating backend logic using Protocol Bu
 ## What I Do
 
 - Backend testing (REST / gRPC)
-- Test automation (Python, pytest)
+- Test automation (Python + Airtest, Appium; C# + Playwright, XCUITEST for iOs, Airtest for Android)
 - Network traffic analysis (HTTP, WebSocket)
 - Reverse engineering client-server communication
 - Building custom QA/debugging tools
@@ -89,7 +89,9 @@ Project for testing gRPC services and validating backend logic using Protocol Bu
 
 ## Toolbox
 
-- Python / pytest  
+- Python / pytest
+- Playwright / C#
+- Python(Java) / Appium
 - mitmproxy  
 - gRPC / Protobuf  
 - CI/CD (GitHub Actions, Jenkins)  
